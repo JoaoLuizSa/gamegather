@@ -1,0 +1,36 @@
+@charset="UTF-8";
+
+			::placeholder {
+			color: black;
+			opacity: 1;}
+
+			form.primeiro{padding:20px;
+			font-family:arial;}
+
+			form.primeiro label{
+				font-size: 150%;
+			}
+
+			form.primeiro div.sexo{
+				text-align: center;
+				border: 1px solid black;
+				width: 200px;
+				
+			}
+
+			form.primeiro div.sexo input{
+				margin-left: -100px;
+			}
+
+			form.primeiro div.modal-body{
+				margin-top:-40px;
+				text-align: left;
+				border: 1px solid black;
+			}
+			form.primeiro div.modal-body input,textarea,select,option{
+					border: 1px solid black;
+					width: 400px;
+			}
+			form.primeiro div.modal-body textarea{
+				height: 120px;
+			}
